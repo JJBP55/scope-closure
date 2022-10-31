@@ -16,14 +16,14 @@ let fruit = "Apple"; // declarar y asignar
 fruit = 'Kiwi'; // reasignando
 console.log(fruit);
 
-let fruit = 'Banana';
-console.log(fruit);
+//let fruit = 'Banana';
+//console.log(fruit);
 // let no se puede redeclarar
 
 // Const
 
 const animal = 'dog'; // declarando y asginando
 // animal = 'cat'; // reasignando
-const animal = 'Snake';
+//const animal = 'Snake';
 console.log(animal);
 
